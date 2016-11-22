@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Zatvor.OsobaKontrola"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" d:DesignWidth="90" MouseDown="UserControl_MouseDown" BorderBrush="Transparent" BorderThickness="2" Height="118">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Width="86">
+            <Image Name="imgSlika" Height="84" Stretch="Fill"/>
+            <TextBlock TextWrapping="Wrap"  Name="txtImeOsobe" Height="29" FontSize="12" TextAlignment="Center"/>   
+        </StackPanel>
+
+
+    </Grid>
+</UserControl>

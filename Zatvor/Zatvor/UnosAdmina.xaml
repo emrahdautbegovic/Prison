@@ -1,0 +1,42 @@
+﻿<Window x:Class="Zatvor.UnosAdmina"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Unos Admina" Height="253.676" Width="434.558">
+    <Grid>
+        <GroupBox Header="Podaci" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="164" Width="258" RenderTransformOrigin="0.5,0.5">
+            <GroupBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.24"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.547"/>
+                </TransformGroup>
+            </GroupBox.RenderTransform>
+            <WrapPanel Height="130" VerticalAlignment="Top">
+                <StackPanel HorizontalAlignment="Left" Height="126" VerticalAlignment="Top" Width="99">
+                    <TextBlock TextWrapping="Wrap" Height="25" FontSize="20" HorizontalAlignment="Right" Text="Ime:"/>
+                    <TextBlock TextWrapping="Wrap" Height="25" FontSize="20" HorizontalAlignment="Right" Text="Prezime:"/>
+                    <TextBlock TextWrapping="Wrap" Height="25" FontSize="20" HorizontalAlignment="Right" Text="Username:"/>
+                    <TextBlock TextWrapping="Wrap" Height="25" FontSize="20" HorizontalAlignment="Right" Text="Password:"/>
+                    <TextBlock TextWrapping="Wrap" Height="25" FontSize="20" HorizontalAlignment="Right" Text="E-Mail:"/>
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Left" Height="126" VerticalAlignment="Top" Width="146">
+                    <TextBox Name="tboxIme" TextWrapping="Wrap" Height="25" FontSize="18"/>
+                    <TextBox Name="tboxPrezime" TextWrapping="Wrap" Height="25" FontSize="18"/>
+                    <TextBox Name="tboxUser" TextWrapping="Wrap" Height="25" FontSize="18"/>
+                    <PasswordBox Name="tboxPass" Height="25" FontSize="18"/>
+                    <TextBox Name="tboxMail" TextWrapping="Wrap" Height="25" FontSize="18"/>
+                </StackPanel>
+            </WrapPanel>
+        </GroupBox>
+        <GroupBox Header="Slika" HorizontalAlignment="Left" Margin="281,10,0,0" VerticalAlignment="Top" Height="165" Width="135">
+            <StackPanel HorizontalAlignment="Left" Height="143" VerticalAlignment="Top" Width="125" Margin="0,0,-2,0">
+                <Image Stretch="Fill" Name="imgSlika" Height="122" HorizontalAlignment="Left" Width="125"/>
+                <Button Click="btnSlika_Click" Name="btnSlika" Content="Izaberi"/>
+            </StackPanel>
+        </GroupBox>
+        <Button Name="btnKraj" Click="btnKraj_Click" Content="Kraj" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="341,191,0,0"/>
+        <Button Click="btnDodaj_Click" Name="btnDodaj" Content="Dodaj" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="261,191,0,0"/>
+
+    </Grid>
+</Window>

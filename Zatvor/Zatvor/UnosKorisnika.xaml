@@ -1,0 +1,26 @@
+﻿<Window x:Class="Zatvor.UnosKorisnika"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Unos Korisnika" Height="207.353" Width="300">
+    <Grid>
+        <GroupBox Header="Podaci" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="127" Width="272">
+            <WrapPanel>
+            <StackPanel HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="79">
+                <TextBlock TextWrapping="Wrap" Text="ID:" FontSize="17" HorizontalAlignment="Right" Height="25"/>
+                    <TextBlock TextWrapping="Wrap" Text="User:" FontSize="17" HorizontalAlignment="Right" Height="25"/>
+                    <TextBlock TextWrapping="Wrap" Text="Password:" FontSize="17" HorizontalAlignment="Right" Height="25"/>
+                    <TextBlock TextWrapping="Wrap" Text="E-Mail:" FontSize="17" HorizontalAlignment="Right" Height="25"/>
+            </StackPanel>
+                <StackPanel HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="178">
+                    <TextBox Name="txtId" FontSize="17"/>
+                    <TextBox Name="txtUser" FontSize="17"/>
+                    <PasswordBox Name="txtPass" FontSize="17"/>
+                    <TextBox Name="txtMail" FontSize="17"/>
+                </StackPanel>
+            </WrapPanel>
+        </GroupBox>
+        <Button Name="btnUnos" Click="btnUnos_Click" Content="Unesi" HorizontalAlignment="Left" Margin="127,142,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Name="btnKraj" Click="btnKraj_Click" Content="Kraj" HorizontalAlignment="Left" Margin="207,142,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

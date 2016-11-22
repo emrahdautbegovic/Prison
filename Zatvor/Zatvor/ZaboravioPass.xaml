@@ -1,0 +1,36 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Zatvor" x:Class="Zatvor.ZaboravioPass"
+        Title="Rekonstrukcija lozinke" Height="318.75" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <GroupBox Header="Unos" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="90" Width="272">
+            <Grid>
+                <TextBlock HorizontalAlignment="Left" Margin="43,10,0,0" TextWrapping="Wrap" Text="E-Mail:" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtMail" HorizontalAlignment="Left" Height="23" Margin="89,3,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="161"/>
+                <TextBlock HorizontalAlignment="Left" Margin="10,41,0,0" TextWrapping="Wrap" Text="Tip korisnika:" VerticalAlignment="Top"/>
+
+            </Grid>
+        </GroupBox>
+        <ComboBox x:Name="cboxTip" HorizontalAlignment="Left" Margin="104,66,0,0" VerticalAlignment="Top" Width="161">
+            <ComboBoxItem Content="Admin" HorizontalAlignment="Right" Width="159"/>
+            <ComboBoxItem Content="User" HorizontalAlignment="Right" Width="159"/>
+        </ComboBox>
+        <Button x:Name="btnPotrdi" Click="btnPotrdi_Click" IsEnabled="False" Content="Potvrdi" HorizontalAlignment="Left" Margin="127,236,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnKraj" Click="btnKraj_Click" Content="Kraj" HorizontalAlignment="Left" Margin="207,236,0,0" VerticalAlignment="Top" Width="75"/>
+        <StatusBar HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="288" Margin="4,261,0,0">
+            <TextBlock x:Name="txtPoruka" TextWrapping="Wrap" Text=""/>
+        </StatusBar>
+        <Image Name="imgSlika" HorizontalAlignment="Left" Height="100" Margin="21,122,0,0" VerticalAlignment="Top" Width="100"/>
+        <GroupBox Header="Podaci" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top" Height="126" Width="272">
+            
+            <StackPanel Margin="114,0,0,0">
+                <TextBlock Name="txtIme" Height="25" FontSize="20" Text=""/>
+                <TextBlock Name="txtPrezime" Height="25" FontSize="20" Text=""/>
+                <TextBlock Name="txtUser" Height="25" FontSize="20" Text=""/>
+            </StackPanel>
+            
+        </GroupBox>
+        <Button Name="btnPronadji" Click="btnPronadji_Click" Content="Pronađi" HorizontalAlignment="Left" Margin="46,236,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

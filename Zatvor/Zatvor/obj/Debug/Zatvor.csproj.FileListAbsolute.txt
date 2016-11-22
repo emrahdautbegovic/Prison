@@ -1,0 +1,320 @@
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.exe.config
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.exe
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.pdb
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.csprojResolveAssemblyReference.cache
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\MainWindow.baml
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\MainWindow.g.cs
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\App.g.cs
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.cache
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.g.resources
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.Properties.Resources.resources
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.csproj.GenerateResource.Cache
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.baml
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.g.cs
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.exe
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.pdb
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.exe.config
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.exe
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.pdb
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.exe
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.pdb
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.csprojResolveAssemblyReference.cache
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\MainWindow.baml
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.baml
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\MainWindow.g.cs
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.g.cs
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\App.g.cs
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.cache
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.g.resources
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.Properties.Resources.resources
+C:\Users\arnela\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.csproj.GenerateResource.Cache
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosUposlenika.baml
+C:\Users\Faris\Source\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosUposlenika.g.cs
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.exe.config
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.exe
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.pdb
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.exe
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.pdb
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.csprojResolveAssemblyReference.cache
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\MainWindow.baml
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\UnosUposlenika.baml
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.baml
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\MainWindow.g.cs
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\UnosUposlenika.g.cs
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.g.cs
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\App.g.cs
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.cache
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.g.resources
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.Properties.Resources.resources
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.csproj.GenerateResource.Cache
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\bin\Debug\Zatvor.exe.config
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\Zatvor.exe
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\Zatvor.pdb
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\Zatvor.csprojResolveAssemblyReference.cache
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\MainWindow.baml
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\OsobaKontrola.baml
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\UnosUposlenika.baml
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.baml
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\MainWindow.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\OsobaKontrola.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\UnosUposlenika.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\App.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.cache
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\Zatvor.g.resources
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\Zatvor.Properties.Resources.resources
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\obj\Debug\Zatvor.csproj.GenerateResource.Cache
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\bin\Debug\Zatvor.exe
+C:\Users\Emrah\Source\Repos\Zatvor4\Zatvor\Zatvor\bin\Debug\Zatvor.pdb
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\OsobaKontrola.baml
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\OsobaKontrola.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\bin\Debug\Zatvor.exe.config
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\bin\Debug\Zatvor.exe
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\bin\Debug\Zatvor.pdb
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\Zatvor.csprojResolveAssemblyReference.cache
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\MainWindow.baml
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\OsobaKontrola.baml
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\UnosUposlenika.baml
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.baml
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\MainWindow.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\OsobaKontrola.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\UnosUposlenika.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\App.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.cache
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\Zatvor.g.resources
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\Zatvor.Properties.Resources.resources
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\Zatvor.csproj.GenerateResource.Cache
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\Zatvor.exe
+C:\Users\Emrah\Source\Repos\Zatvor5\Zatvor\Zatvor\obj\Debug\Zatvor.pdb
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Otpustanje.baml
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Otpustanje.g.cs
+C:\Repos\Zatvor\Zatvor\bin\Debug\Zatvor.exe.config
+C:\Repos\Zatvor\Zatvor\bin\Debug\Zatvor.exe
+C:\Repos\Zatvor\Zatvor\bin\Debug\Zatvor.pdb
+C:\Repos\Zatvor\Zatvor\obj\Debug\Zatvor.csprojResolveAssemblyReference.cache
+C:\Repos\Zatvor\Zatvor\obj\Debug\MainWindow.baml
+C:\Repos\Zatvor\Zatvor\obj\Debug\OsobaKontrola.baml
+C:\Repos\Zatvor\Zatvor\obj\Debug\Otpustanje.baml
+C:\Repos\Zatvor\Zatvor\obj\Debug\UnosUposlenika.baml
+C:\Repos\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.baml
+C:\Repos\Zatvor\Zatvor\obj\Debug\MainWindow.g.cs
+C:\Repos\Zatvor\Zatvor\obj\Debug\OsobaKontrola.g.cs
+C:\Repos\Zatvor\Zatvor\obj\Debug\Otpustanje.g.cs
+C:\Repos\Zatvor\Zatvor\obj\Debug\UnosUposlenika.g.cs
+C:\Repos\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.g.cs
+C:\Repos\Zatvor\Zatvor\obj\Debug\App.g.cs
+C:\Repos\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.cache
+C:\Repos\Zatvor\Zatvor\obj\Debug\Zatvor.g.resources
+C:\Repos\Zatvor\Zatvor\obj\Debug\Zatvor.Properties.Resources.resources
+C:\Repos\Zatvor\Zatvor\obj\Debug\Zatvor.csproj.GenerateResource.Cache
+C:\Repos\Zatvor\Zatvor\obj\Debug\Zatvor.exe
+C:\Repos\Zatvor\Zatvor\obj\Debug\Zatvor.pdb
+C:\Repos\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.lref
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.lref
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\ZaboravioPass.baml
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\ZaboravioPass.g.cs
+C:\Repos\Zatvor\Zatvor\obj\Debug\ZaboravioPass.g.cs
+C:\Repos\Zatvor\Zatvor\obj\Debug\ZaboravioPass.baml
+C:\Repos\Zatvor\Zatvor\obj\Debug\UnosKorisnika.baml
+C:\Repos\Zatvor\Zatvor\obj\Debug\UnosKorisnika.g.cs
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\UnosKorisnika.baml
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\UnosKorisnika.g.cs
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.exe.config
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.exe
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Zatvor.pdb
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.csprojResolveAssemblyReference.cache
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\OsobaKontrola.baml
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosKorisnika.baml
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosUposlenika.baml
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.baml
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\MainWindow.g.cs
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\OsobaKontrola.g.cs
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Otpustanje.g.cs
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosKorisnika.g.cs
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosUposlenika.g.cs
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.g.cs
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\ZaboravioPass.g.cs
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\App.g.cs
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.cache
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.lref
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\MainWindow.baml
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Otpustanje.baml
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\ZaboravioPass.baml
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.g.resources
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.Properties.Resources.resources
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.csproj.GenerateResource.Cache
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.exe
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\Zatvor.pdb
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Zatvor.exe.config
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Zatvor.exe
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Zatvor.pdb
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Zatvor.csprojResolveAssemblyReference.cache
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\OsobaKontrola.baml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\UnosKorisnika.baml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\UnosUposlenika.baml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.baml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\MainWindow.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\OsobaKontrola.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Otpustanje.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\UnosKorisnika.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\UnosUposlenika.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\ZaboravioPass.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\App.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.cache
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.lref
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\MainWindow.baml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Otpustanje.baml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\ZaboravioPass.baml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Zatvor.g.resources
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Zatvor.Properties.Resources.resources
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Zatvor.csproj.GenerateResource.Cache
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Zatvor.exe
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\Zatvor.pdb
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.presentation.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.xml
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.pdb
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.xml
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.presentation.pdb
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.presentation.xml
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosAdmina.baml
+C:\Repos\Zatvor\Zatvor\Zatvor\obj\Debug\UnosAdmina.g.cs
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\UnosAdmina.baml
+C:\Zatvor\Zatvor\Zatvor\obj\Debug\UnosAdmina.g.cs
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\WebcamControl.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.presentation.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.xml
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.xml
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\zxing.presentation.xml
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Zatvor\Zatvor\Zatvor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\UnosAdmina.baml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\obj\Debug\UnosAdmina.g.cs
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\WebcamControl.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\zxing.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\zxing.presentation.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\zxing.xml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\zxing.presentation.xml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\Emrah\Source\Repos\Zatvor2\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Repos\Zatvor\Zatvor\Zatvor\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Zatvor.csprojResolveAssemblyReference.cache
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\UnosAdmina.baml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\OsobaKontrola.baml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\UnosKorisnika.baml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\UnosUposlenika.baml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.baml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\UnosAdmina.g.cs
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\MainWindow.g.cs
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\OsobaKontrola.g.cs
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Otpustanje.g.cs
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\UnosKorisnika.g.cs
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\UnosUposlenika.g.cs
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\UnosZatvorenika.g.cs
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\ZaboravioPass.g.cs
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\App.g.cs
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.cache
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Zatvor_MarkupCompile.lref
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Zatvor.exe
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Zatvor.pdb
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Zatvor.exe.config
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Zatvor.exe
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Zatvor.pdb
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\zxing.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\zxing.presentation.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\zxing.pdb
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\zxing.xml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\zxing.presentation.pdb
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\zxing.presentation.xml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\MainWindow.baml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Otpustanje.baml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\ZaboravioPass.baml
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Zatvor.g.resources
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Zatvor.Properties.Resources.resources
+C:\Users\Faris\OneDrive\ETF - RI - Druga godina\4.Semestar\Objektno orijentisana analiza i dizajn\Projekat\APP\Zatvor\Zatvor\obj\Debug\Zatvor.csproj.GenerateResource.Cache

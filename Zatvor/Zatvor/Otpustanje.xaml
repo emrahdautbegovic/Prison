@@ -1,0 +1,33 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Zatvor" x:Class="Zatvor.Otpustanje"
+        Title="Otpustanje" Height="286.765" Width="373.898" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <GroupBox Header="Zatvorenik" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="228" Width="173">
+            <StackPanel>
+            <Image Name="slika" Stretch="Fill" HorizontalAlignment="Left" VerticalAlignment="Top" Height="159" Width="163" Margin="0,0,-2,0"/>
+                <TextBlock Name="ime" Height="23"/>
+                <TextBlock Name="prezime" Height="23"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Vrsta puštanja" HorizontalAlignment="Left" Margin="188,20,0,0" VerticalAlignment="Top" Height="77" Width="165">
+            <StackPanel>
+                <RadioButton Checked="rbtnPuno_Checked" x:Name="rbtnPuno" Content="Puno oslobađanje" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <RadioButton Checked="rbtnUslovno_Checked" x:Name="rbtnUslovno" Content="Uslovno oslobađanje" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Napomena" HorizontalAlignment="Left" Margin="188,102,0,0" VerticalAlignment="Top" Height="111" Width="165">
+            <RichTextBox x:Name="richNapomena" HorizontalAlignment="Left" Height="88" Margin="0,1,-2,0" VerticalAlignment="Top" Width="155">
+                <FlowDocument>
+                    <Paragraph>
+                        <Run Text=""/>
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+        </GroupBox>
+        <Button x:Name="btnPotvrdi" Click="btnPotvrdi_Click" Content="Potvrdi" HorizontalAlignment="Left" Margin="188,218,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnKraj" Click="btnKraj_Click" Content="Kraj" HorizontalAlignment="Left" Margin="278,218,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
